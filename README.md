@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hallo! Ich bin [Dein Name]
 
-<!--
-**livednoiz/livednoiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomatisierung und Blockchain-Integration. Meine Leidenschaft gilt performanten, modularen und zukunftssicheren Lösungen – egal ob klassisch im Web oder dezentral über die Chain.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projekte
+
+### 🌌 Orbit – UI meets CSS Animation
+> Ein CSS-basierter Orbit mit animierten Icons und Ebenentiefe. Ideal für visuelle Portfolios oder Landingpages.
+🔗 [Projekt ansehen](https://github.com/deinname/orbit)
+
+### 🧰 SysAssist – Der kleine Helfer für große Tasks
+> Automatisierungs-Skripte für das lokale System oder Server, z. B. zur Datenbankwartung, Sicherung oder Init-Routinen.
+🔗 [Repo folgt]
+
+### 🧱 Web3 Playground – Solidity Snippets & Mini-Tutorials
+> Ein öffentliches Repo mit ausgewählten Smart-Contract-Beispielen, DAO-Grundlagen und realen Use Cases.
+🔗 [Repo folgt]
+
+---
+
+## 🛠️ Tech Stack
+
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `React` • `Tailwind`  
+`Python` • `Django` • `Docker` • `MariaDB` • `Bash`  
+`Solidity` • `Web3.js` • `Hardhat` • `Ethers`  
+`Git` • `Linux` • `Plesk` • `Matrix-Synapse`
+
+---
+
+## 📫 Kontakt
+
+📬 **E-Mail:** freelance@deine-domain.dev  
+🌐 **Website:** [deine-domain.dev](https://deine-domain.dev)  
+💼 **Freelancer verfügbar:** ja – bevorzugt remote & projektbasiert
+
+---
+
+> Ich freue mich über Kooperationen, Partnerschaften und spannende Open-Source-Initiativen!
