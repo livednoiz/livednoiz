@@ -1,6 +1,6 @@
 # 👋 Hallo! Ich bin Sascha Gebel
 
-Als Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomatisierung und Blockchain-Integration. Gilt meine Leidenschaft performanten, modularen und zukunftssicheren Lösungen – egal ob klassisch im Web oder dezentral über die Chain.
+Als Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomatisierung und Blockchain-Integration, gilt meine Leidenschaft performanten, modularen und zukunftssicheren Lösungen – egal ob klassisch im Web oder dezentral über die Chain.
 
 ---
 
