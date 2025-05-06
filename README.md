@@ -8,7 +8,7 @@ Ich bin Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomati
 
 ### 🌌 Orbit – UI meets CSS Animation
 > Ein CSS-basierter Orbit mit animierten Icons und Ebenentiefe. Ideal für visuelle Portfolios oder Landingpages.
-🔗 [Projekt ansehen][https://github.com/livednoiz/css_orbit](https://github.com/livednoiz/css_orbit)
+🔗 [Projekt ansehen](https://github.com/livednoiz/css_orbit)
 
 ### 🧰 SysAssist – Der kleine Helfer für große Tasks
 > Automatisierungs-Skripte für das lokale System oder Server, z. B. zur Datenbankwartung, Sicherung oder Init-Routinen.
