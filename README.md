@@ -1,4 +1,4 @@
-# 👋 Hallo! Ich bin [Dein Name]
+# 👋 Hallo! Ich bin Sascha Gebel
 
 Ich bin Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomatisierung und Blockchain-Integration. Meine Leidenschaft gilt performanten, modularen und zukunftssicheren Lösungen – egal ob klassisch im Web oder dezentral über die Chain.
 
@@ -31,8 +31,8 @@ Ich bin Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomati
 
 ## 📫 Kontakt
 
-📬 **E-Mail:** freelance@deine-domain.dev  
-🌐 **Website:** [deine-domain.dev](https://deine-domain.dev)  
+📬 **E-Mail:** freelance@blackenter.de  
+🌐 **Website:** [folgt](https://blackenter.de) 
 💼 **Freelancer verfügbar:** ja – bevorzugt remote & projektbasiert
 
 ---
