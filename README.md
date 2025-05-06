@@ -22,7 +22,7 @@ Als Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomatisier
 
 ## 🛠️ Tech Stack
 
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `React` • `Tailwind` • `Python` • `Django` • `Docker` • `Virtual Box` • `MariaDB` • `Bash` • `Solidity` • `Web3.js` • `Hardhat` • `Ethers` • `Brownie` • `Git` • `Linux` • `Proxmox VE` • `Plesk` • `Matrix-Synapse`
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `React` • `Tailwind` • `Python` • `Django` • `Docker` • `Virtual Box` • `MariaDB` • `Bash` • `Solidity` • `Web3.js` • `Hardhat` • `Ethers` • `ETH-Brownie` • `Git` • `Linux` • `Proxmox VE` • `Plesk` • `Matrix-Synapse`
 
 ---
 
