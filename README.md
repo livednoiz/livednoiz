@@ -12,7 +12,7 @@ Als Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomatisier
 
 ### 🧰 SysAssist – Der kleine Helfer für große Tasks
 > Automatisierungs-Skripte für das lokale System oder Server, z. B. zur Datenbankwartung, Sicherung oder Init-Routinen.
-🔗 [Repo folgt]
+🔗 [Projekt ansehen](https://github.com/livednoiz/sysassist)
 
 ### 🧱 Web3 Playground – Solidity Snippets & Mini-Tutorials
 > Ein öffentliches Repo mit ausgewählten Smart-Contract-Beispielen, DAO-Grundlagen und realen Use Cases.
