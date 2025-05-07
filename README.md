@@ -16,7 +16,7 @@ Als Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomatisier
 
 ### 🧱 Web3 Playground – Solidity Snippets & Mini-Tutorials
 > Ein öffentliches Repo mit ausgewählten Smart-Contract-Beispielen, DAO-Grundlagen und realen Use Cases.
-🔗 [Repo folgt]
+🔗 [Projekt ansehen](https://github.com/livednoiz/web3_playground)
 
 ---
 
