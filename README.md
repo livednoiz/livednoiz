@@ -18,6 +18,10 @@ Als Full-Stack Entwickler mit Fokus auf visuelle Webkonzepte, Systemautomatisier
 > Ein öffentliches Repo mit ausgewählten Smart-Contract-Beispielen, DAO-Grundlagen und realen Use Cases.
 🔗 [Projekt ansehen](https://github.com/livednoiz/web3_playground)
 
+### 🤖🧠 KI & Bugreporting – Ein Community-Projekt zur Verbesserung technischer Zusammenarbeit
+> Ein öffentliches Repo als Interdisziplinäres Projekt zu KI, Ethik & Open Source: Abhandlung, Halluzinationen, verantwortungsvolles Bug-Reporting, Workflows & sichere Datenanbindung. Für Entwickler, Maintainer & KI-Enthusiasten – gemeinsam für reflektierte, faire und produktive KI-Nutzung im Code. 🛠️💡
+🔗 [Projekt ansehen](https://github.com/livednoiz/rai_br)
+
 ---
 
 ## 🛠️ Tech Stack
