@@ -36,7 +36,7 @@
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40livednoiz-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a1a)](https://twitter.com/livednoiz)
-[![Website](https://img.shields.io/badge/Website-obscuras.media-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff00&labelColor=1a1a1a)](https://obscuras.media.agency.de)
+[![Website](https://img.shields.io/badge/Website-obscuras.media-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff00&labelColor=1a1a1a)](https://obscuras-media-agency.de)
 [![Discord](https://img.shields.io/badge/Discord-noiz0039-000000?style=for-the-badge&logo=discord&logoColor=7289da&labelColor=1a1a1a)](https://discord.com/users/noiz0039)
 [![Telegram](https://img.shields.io/badge/Telegram-%40livednoiz-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4&labelColor=1a1a1a)](https://t.me/livednoiz)
 [![Email](https://img.shields.io/badge/Email-kontakt%40obscuras--media--agency.de-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1a1a1a)](mailto:kontakt@obscuras-media-agency.de)
