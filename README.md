@@ -70,11 +70,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=livednoiz&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00&border_color=30363d&hide_border=false" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livednoiz&show_icons=true&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00&border_color=30363d&hide_border=false)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=livednoiz&theme=dark&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&border=30363d" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livednoiz&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livednoiz&layout=compact&theme=dark&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&border_color=30363d)
 
 </div>
 
